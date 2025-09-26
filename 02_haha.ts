@@ -3,3 +3,5 @@ const person = {
     age:18
 }
 console.log(person.name,person.age);
+console.log('test two log');
+
